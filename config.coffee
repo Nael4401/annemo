@@ -13,7 +13,7 @@
   # you can then send links with these ids to the annotators.
   # these ids can be anything
   users: [
-    "8935", "7656", "9234"
+    "8935", "7656", "9234","4431"
   ]
 
 
